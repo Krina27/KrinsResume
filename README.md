@@ -1,1 +1,1 @@
-# KrinsResume
+Krina Marfatia's Resume Project!
